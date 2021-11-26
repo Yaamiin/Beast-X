@@ -29,7 +29,7 @@
 
 # Support
 
-<a href="https://t.me/BeastX_Bots"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FYaamiin%2FNodjs%2Fblob%2Fmaster%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FYaamiin%2Fbeast-X"></a>
 <a href="https://t.me/BeastX_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
