@@ -50,7 +50,7 @@ CMD_HELP.update(
         \n\n**Syntax : **`.boobs`\
         \n**Usage :** Searchs and sends random B××Bs image\
         \n\n**Syntax :**`.butts`\
-        \n**Usage :** Searchs and sends random Butts image\
+        \n**Usage :** Hadii aad 18 ka yartahay laabo\
         \n\n\n     __**WARNING!! 18+ MODULE**__"
     }
 )
